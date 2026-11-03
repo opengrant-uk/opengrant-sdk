@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "opengrant",
+  "version": "0.1.0",
+  "description": "Find UK grant schemes and funders with OpenGrant: the opengrant skill plus the read-only OpenGrant MCP server. No sign-in.",
+  "author": { "name": "OpenGrant", "email": "info@opengrant.co.uk", "url": "https://opengrant.co.uk" },
+  "homepage": "https://opengrant.co.uk/developers",
+  "repository": "https://github.com/opengrant-uk/opengrant-sdk",
+  "license": "MIT",
+  "keywords": ["uk-grants", "funding", "charity", "funders", "mcp"]
+}
